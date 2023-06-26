@@ -10,7 +10,7 @@
 The creation of this program was to simplify the analysis of the images obtained from [Langmuir–Blodgett trough](https://en.wikipedia.org/wiki/Langmuir%E2%80%93Blodgett_trough) laboratory apparatus KSV 2000
 made by KSV Instruments Ltd.<br />
 This program undergoes [CC BY 4.0](https://github.com/dnarkevi/lb-trough-data-analyser/blob/main/LICENSE.md) license, which means it is open source and can be used or modified in any way you want,
-but you must reference the author by full name or [DOI](https://doi.org/10.5281/zenodo.799639).
+but you must reference the author by full name or [DOI](https://doi.org/10.5281/zenodo.7996399).
 
 ## Features
 
