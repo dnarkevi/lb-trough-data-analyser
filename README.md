@@ -51,3 +51,19 @@ article supporting information. External packages are listed as follows:
 
 - v1.0 - Initial program version
 - v1.1 - Added support for different regions
+
+## Reference
+
+If you use this program or code, please cite:
+```
+@software{domantas_narkevicius_2023_7996399,
+  author       = {Domantas Narkevičius},
+  title        = {Langmuir–Blodgett trough data analyser},
+  month        = jun,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.1},
+  doi          = {10.5281/zenodo.7996399},
+  url          = {https://doi.org/10.5281/zenodo.7996399}
+}
+```
