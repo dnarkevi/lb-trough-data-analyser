@@ -10,7 +10,7 @@
 The creation of this program was to simplify the analysis of the images obtained from [Langmuir–Blodgett trough](https://en.wikipedia.org/wiki/Langmuir%E2%80%93Blodgett_trough) laboratory apparatus KSV 2000
 made by KSV Instruments Ltd.<br />
 This program undergoes [CC BY 4.0](https://github.com/dnarkevi/lb-trough-data-analyser/blob/main/LICENSE.md) license, which means it is open source and can be used or modified in any way you want,
-but you must reference the author by full name or [DOI](https://doi.org/10.5281/zenodo.7996399).
+However, it would be best to reference the author by full name or [DOI](https://doi.org/10.5281/zenodo.7996399).
 
 ## Features
 
@@ -28,7 +28,7 @@ but you must reference the author by full name or [DOI](https://doi.org/10.5281/
 
 ## Usage
 
-The program is designed to work on Windows. In the `win` folder executable files can be found. The Python scripts could be run on other OS, but this is not tested.
+The program is designed to work on Windows. In the `win` folder, executable files can be found. The Python scripts could be run on other OS, but this is not tested.
 The source code is in the `build\scr` directory.
 
 ## Application screenshot
@@ -51,10 +51,12 @@ article supporting information. External packages are listed as follows:
 
 - v1.0 - Initial program version
 - v1.1 - Added support for different regions
+- v1.2 - Fixed bug related to Gibbs free energy calculation
+- v1.3 - Added multiple smoothing options, interpolation methods and equation quick view.
 
 ## Reference
 
-If you use this program or code, please cite:
+If you use this program or code, please cite as follows:
 ```
 @software{domantas_narkevicius_2023_7996399,
   author       = {Domantas Narkevičius},

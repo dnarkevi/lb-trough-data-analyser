@@ -1,1 +1,1 @@
-pyinstaller --windowed --version-file=file_version_info.txt --clean --icon=icon.ico --add-data="license.txt;." --add-data="icon.ico;." --name=lb-trough .\src\lb-trough-analyser-v1.2.py
+pyinstaller --windowed --version-file=file_version_info.txt --clean --icon=resources/icon.ico --add-data="license.txt;." --add-data="resources/*;resources" --name=lb-trough .\src\lb-trough-analyser-v1.3.py
