@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/648341690.svg)](https://zenodo.org/badge/latestdoi/648341690)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8086705.svg)](https://doi.org/10.5281/zenodo.8086705)
 
 <p align="center">
 <img width="250" src="./resources/title_img.png"/>
@@ -10,7 +10,7 @@
 The creation of this program was to simplify the analysis of the images obtained from [Langmuir–Blodgett trough](https://en.wikipedia.org/wiki/Langmuir%E2%80%93Blodgett_trough) laboratory apparatus KSV 2000
 made by KSV Instruments Ltd.<br />
 This program undergoes [CC BY 4.0](https://github.com/dnarkevi/lb-trough-data-analyser/blob/main/LICENSE.md) license, which means it is open source and can be used or modified in any way you want,
-However, it would be best to reference the author by full name or [DOI](https://doi.org/10.5281/zenodo.7996399).
+However, it would be best to reference the author by full name or [DOI](https://doi.org/10.5281/zenodo.8086705).
 
 ## Features
 
@@ -58,14 +58,14 @@ article supporting information. External packages are listed as follows:
 
 If you use this program or code, please cite as follows:
 ```
-@software{domantas_narkevicius_2023_7996399,
+@software{domantas_narkevicius_2023_8086705,
   author       = {Domantas Narkevičius},
   title        = {Langmuir–Blodgett trough data analyser},
   month        = jun,
   year         = 2023,
   publisher    = {Zenodo},
-  version      = {v1.1},
-  doi          = {10.5281/zenodo.7996399},
-  url          = {https://doi.org/10.5281/zenodo.7996399}
+  version      = {v1.3},
+  doi          = {10.5281/zenodo.8086705},
+  url          = {https://doi.org/10.5281/zenodo.8086705}
 }
 ```
