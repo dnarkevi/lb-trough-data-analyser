@@ -796,7 +796,7 @@ sixth_square = [
     ],
     [
          Button("Formula", key="-formula2-"),
-         sg.Text('', s=(50, None), k='-dgxi_msg-')
+         sg.Text('', s=(40, None), k='-dgxi_msg-')
     ]
 ]
 
